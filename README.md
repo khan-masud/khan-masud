@@ -39,3 +39,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khan-masud&show_icons=true&theme=dark&locale=en" alt="khan-masud" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khan-masud&theme=dark" alt="khan-masud" /></p>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=khan-masud&theme=onedark)](https://github.com/khan-masud/)

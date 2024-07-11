@@ -1,7 +1,7 @@
-<h1 align="center">Hi guys 👋, This is Abdullah Al Masud</h1>
+<h1 align="center">Hi devs 👋, This is Abdullah Al Masud</h1>
 <h3 align="center">SEO Expert | Content Writer | Frond-end Developer | Wordpress Developer | Researcher | Entrepreneur | Learner | Dreamer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khan-masud&label=Profile%20views&color=0e75b6&style=flat" alt="khan-masud" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khan-masud&label=Profile%20views&color=b1b40e&style=flat" alt="khan-masud" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khan-masud" alt="khan-masud" /></a> </p>
 

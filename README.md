@@ -27,7 +27,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khan-masud&show_icons=true&theme=dark&locale=en" alt="khan-masud" /></p>
 
-<center><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khan-masud&theme=dark" alt="khan-masud" /></p></center>center>
+<center><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khan-masud&theme=dark" alt="khan-masud" /></p></center>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

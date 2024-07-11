@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khan-masud&label=Profile%20views&color=b1b40e&style=flat" alt="khan-masud" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khan-masud" alt="khan-masud" /></a> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=khan-masud&theme=onedark)](https://github.com/khan-masud/)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khan-masud&theme=onedark" alt="khan-masud" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/connect_masud" target="blank"><img src="https://img.shields.io/twitter/follow/connect_masud?logo=twitter&style=for-the-badge" alt="connect_masud" /></a> </p>
 

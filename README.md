@@ -24,8 +24,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khan-masud&theme=onedark" alt="khan-masud" /></a> </p>
 
 <p align="center" display="inline">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=khan-masud&show_icons=true&theme=dark&locale=en&layout=compact" alt="khan-masud" style="margin-right: 20px"/>
-<img src="https://github-readme-stats.vercel.app/api?username=khan-masud&show_icons=true&theme=dark&locale=en" alt="khan-masud" style="margin-left: 20px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=khan-masud&show_icons=true&theme=dark&locale=en&layout=compact" alt="khan-masud" style="margin-right: 5%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=khan-masud&show_icons=true&theme=dark&locale=en" alt="khan-masud" style="margin-left: 5%"/>
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khan-masud&theme=dark" alt="khan-masud" /></p>

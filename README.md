@@ -1,8 +1,6 @@
 <h1 align="center">Hi devs 👋, This is Abdullah Al Masud</h1>
 <h3 align="center">SEO Expert | Content Writer | Frond-end Developer | Wordpress Developer | Researcher | Entrepreneur | Learner | Dreamer</h3>
 
-<p align="left"> <a href="https://twitter.com/connect_masud" target="blank"><img src="https://img.shields.io/twitter/follow/connect_masud?logo=twitter&style=for-the-badge" alt="connect_masud" /></a> </p>
-
 - 🔭 I’m currently working on [Onnanno.Com](https://www.onnanno.com)
 
 - 🌱 I’m currently learning **Javascript, React, Node.js**

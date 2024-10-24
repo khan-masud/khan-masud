@@ -1,13 +1,13 @@
 <h1 align="center">Hi devs 👋, This is Abdullah Al Masud</h1>
 <h3 align="center">SEO Expert | Content Writer | Frond-end Developer | Wordpress Developer | Researcher | Entrepreneur | Learner | Dreamer</h3>
 
-- 🔭 I’m currently working on [Onnanno.Com](https://www.onnanno.com)
+- 🔭 I’m currently working on [Onnanno.Com](https://www.shadharon.net)
 
 - 🌱 I’m currently learning **Javascript, React, Node.js**
 
 - 👨‍💻 All of my projects are available at [https://masud.onnanno.com](https://masud.onnanno.com)
 
-- 📝 I regularly write articles on [https://www.onnanno.com](https://www.onnanno.com)
+- 📝 I regularly write articles on [https://www.onnanno.com](https://www.shadharon.net)
 
 - 💬 Ask me about **SEO, Web Development**
 

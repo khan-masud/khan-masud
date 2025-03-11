@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript, React, Node.js**
 
-- 👨‍💻 All of my projects are available at [https://masud.onnanno.com](https://masud.onnanno.com)
+- 👨‍💻 All of my projects are available at [https://masud.shadharon.net](https://masud.shadharon.net)
 
 - 📝 I regularly write articles on [https://www.shadharon.net](https://www.shadharon.net)
 

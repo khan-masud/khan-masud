@@ -2,10 +2,6 @@
 <h3 align="center">Developer | Entrepreneur | Learner | Dreamer</h3>
 
 
-# Hi 👋, I'm Abdullah Al Masud
-
-### Learner | Developer | Builder | Entrepreneur  
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khan-masud&label=Profile views&color=0e75b6&style=flat" alt="khan-masud" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khan-masud" alt="khan-masud" /></a> </p>
